@@ -1,0 +1,1 @@
+Older sister. Blue/grey fur, and always acted like a second mother to Scamp.

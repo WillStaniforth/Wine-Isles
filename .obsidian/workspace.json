@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "050aee596f7afb46",
+    "type": "split",
+    "children": [
+      {
+        "id": "059cc3c65962950f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10143c5d0da97f76",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e31fe2b5b7378b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7faa9e729624ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ceebf1bd56689a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6627a906bc82e8ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1dafdfe9a4c934f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d21b845a7ee1377e",
+    "type": "split",
+    "children": [
+      {
+        "id": "132bf1ead5e114e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0f678dcc3488e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wine Isles Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wine Isles Map"
+            }
+          },
+          {
+            "id": "d65fa115c197fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wine Isles Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wine Isles Map"
+            }
+          },
+          {
+            "id": "003d09c018d322b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd679361137763ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wine Isles Map.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wine Isles Map"
+            }
+          },
+          {
+            "id": "08faeae6003f4722",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "76aaa9479907ad89",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "10143c5d0da97f76",
+  "lastOpenFiles": [
+    "WineIslesRepo",
+    "Wine Isles Map.md",
+    "Wine Isles Map.png",
+    "Player Characters/The Party.md",
+    "Factions/Wine Havens/Stjora Vinduhn.md",
+    "Factions/Errant Strand/Errant Strand.md",
+    "Factions/Wine Havens",
+    "Factions/Gilded Scales Company/Gilded Scales Company.md",
+    "Factions/Coils of Ydersius/Coils of Ydersius.md",
+    "Player Characters/Maxwell Esters.md",
+    "Untitled",
+    "Player Characters/Scamp.md",
+    "Player Characters/Xsymmalaxitrixz.md",
+    "Non-Player Characters/Captain Samuel Sartori.md",
+    "Non-Player Characters/Xilit Peffee Copsi.md",
+    "Non-Player Characters/Teoxilit Xeokt.md",
+    "Non-Player Characters/Tlakit Sthennelaxis.md",
+    "Non-Player Characters/Xoani Tematlan.md",
+    "Non-Player Characters/Pipkin.md",
+    "Non-Player Characters/Match.md",
+    "Non-Player Characters/Dusty.md",
+    "Non-Player Characters/Chitter.md",
+    "Non-Player Characters/Captain Ludovico Toussant.md",
+    "Non-Player Characters/Belarria Din'Oryn.md",
+    "Non-Player Characters/Bhalmek Graygrace.md",
+    "Captain Ludovico Toussant.md",
+    "Bhalmek Graygrace.md",
+    "Belarria Din'Oryn.md",
+    "Non-Player Characters/Grizle.md",
+    "Untitled.canvas",
+    "Non-Player Characters",
+    "Player Characters/~$amp backstory.docx",
+    "Player Characters/Scamp backstory.docx",
+    "Player Characters",
+    "Regions/Secinia Abyssal",
+    "Regions/Kazano Depths",
+    "Regions/Vetero Expanse",
+    "Regions/Syrano Shallows"
+  ]
+}

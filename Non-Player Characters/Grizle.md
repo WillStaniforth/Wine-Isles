@@ -1,0 +1,1 @@
+Father. Black fur that’s balding on top of his head. Boisterous with a bellowing laugh. Very talented with a mallet when the need arises.

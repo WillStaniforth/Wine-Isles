@@ -1,0 +1,1 @@
+Mother. White fur with a dusting of grey on her nose. Quiet, kind woman, who is exasperated by Scamp’s behaviour but also wouldn’t change her for the world.

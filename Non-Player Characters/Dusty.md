@@ -1,0 +1,1 @@
+Grandmother. A dusty grey furred ratfolk with white eyes. Nobody knows how old she is. She’s the matriarch of the warren, and no one is stupid enough to mess with Grandma Dusty.

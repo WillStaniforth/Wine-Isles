@@ -1,3 +1,7 @@
 [[Captain Samuel Sartori]]
 [[Captain Ludovico Toussant]]
-[[Fort Alegria]]
+[[Commodore Valverde]]
+[[Archon Coliana]]
+[[Archon Ramos]]
+[[Alegria Keep]]
+[[Storm's Eye Spire]]

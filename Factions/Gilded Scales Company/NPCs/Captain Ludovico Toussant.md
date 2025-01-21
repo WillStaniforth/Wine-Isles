@@ -1,0 +1,1 @@
+Captain Toussant is the Gilded Scales captain of the Unsetting Sun, one flagship of the Gilded Scales fleet.

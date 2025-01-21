@@ -1,1 +1,0 @@
-Sthennelaxis was Xym’s direct superior within the Coils of Ydersius, leading the detachment of soldiers to which Xym was assigned as battlefield alchemist. When Xym presented her research on the Hunter’s Bane and the improvements it could make to their soldiers, Sthennelaxis was incensed, ordering Xym’s research to be seized and for the apostate herself to be arrested.

@@ -1,0 +1,1 @@
+Archon Ramos is a powerful wizard that serves Maltha. He is not unwavering in his devotion to Maltha, and is often sidetracked by his own pet projects. 

@@ -1,0 +1,1 @@
+artificer mentor. Dwarven man, with black hair and beard, and weathered tanned skin. Missing an eye that he covers with an old eye patch, and has a mechanical arm because he blew up the last one.

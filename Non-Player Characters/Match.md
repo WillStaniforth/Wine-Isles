@@ -1,1 +1,1 @@
-Older brother. Brown fur with patches of white on his arms and back. Jock vibes.
+Scamp's Older brother. Brown fur with patches of white on his arms and back. Jock vibes.

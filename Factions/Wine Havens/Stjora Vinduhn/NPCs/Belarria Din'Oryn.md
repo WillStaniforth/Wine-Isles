@@ -1,0 +1,1 @@
+Drow woman who’s a caretaker and scholar from Stjora Vinduhn. Though she hates Scamp for constantly breaking in, she can’t deny that she’s enjoyed the excitement of their strange love/hate “friendship” (she uses that term very lightly). She has dark blue hair, light purple skin, and shining silver eyes. She’s a wizard.

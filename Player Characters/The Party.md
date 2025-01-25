@@ -1,3 +1,5 @@
 [[Scamp]]
 [[Maxwell Esters]]
 [[Xsymmalaxitrixz]]
+[[Sorin Thornvale]]
+[[Burdock]]

@@ -46,8 +46,8 @@ Over the past few years, she’s found creative ways to break into the city’s 
 
 NPCs:
 [[Captain Ludovico Toussant]]
-[[Non-Player Characters/Belarria Din'Oryn]]
-[[Non-Player Characters/Bhalmek Graygrace]]
+[[Belarria Din'Oryn]]
+[[Bhalmek Graygrace]]
 [[Chitter]]
 [[Match]]
 [[Pipkin]]

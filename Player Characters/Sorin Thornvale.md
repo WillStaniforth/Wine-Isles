@@ -1,3 +1,4 @@
+
 Class - Druid
 
 Subclass - Circle of the Wild Druid - Kibbles
@@ -10,7 +11,7 @@ Race - human - +1 ASIs
 
 Point Buy
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJwza1EVzQ_qlq2PxAERsKKxQj9tldlrPFQ21b9cttxBVUOSgY5DAaoyeffWLH8TgSs9nDI0D12NtW3xYFMmjareHzzjNFrXybNMNdboYsZsg8lk8ABJPYruRcxHTaj--K1VmG?key=H92coSoymdgDvy9x8qUH_A)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfeJGwHSOTWtJoJBi4q5q6itWNhst7e9wqo6CVFFwNNb6TZPfwT73VaLHoAe-Jr08TqKybhFBAeq6WV__m3XGabilvLdRIsaHljjyKxKthI8RtADyYN1-bF-_ESd-JW8ELVXTTj?key=H92coSoymdgDvy9x8qUH_A)
 
   
 
@@ -66,7 +67,7 @@ The second face may reveal the power and explain. 
 
 # Sorin Backstory
 
-Sorin Thornvale was the youngest of three half-elven sons, born to Harlan and Mirella Thornvale. His older brothers, Daelon and Jareth, 17 and 22 years his senior, were more like uncles than siblings, spending their days working the fields and leaving Sorin to entertain himself. Though his parents loved him, their time was stretched thin by the demands of the farm, and Sorin often felt like an afterthought in his own family. He found solace in the quiet of the nearby forest.
+Sorin Thornvale was the youngest of three half-elven sons, born to Harlan and Mirella Thornvale. His older brothers, Daelon and Jareth, 17 and 22 years his senior, were more like uncles than siblings, spending their days working the fields and leaving Sorin to entertain himself. The farm was an hour from the closest village Green Thorpe and a couple days from Theogonia. Though his parents loved him, their time was stretched thin by the demands of the farm, and Sorin often felt like an afterthought in his own family. He found solace in the quiet of the nearby forest.
 
   
 
@@ -100,11 +101,9 @@ Shaken and grieving, Sorin returned to his home only to find his family burying 
 
   
 
-Need to define home and port location
-
 # Travelling backstory
 
-Over the next half a dozen years, Sorin wandered the western coast, drifting from town to town and slowly learning the hard truths of his new existence. He discovered the basics of his powers through trial and error—dying and reincarnating multiple times before understanding the risks of his immortality. Each new face brought a fresh opportunity to start over, and he quickly realized it was safer to craft a new name and story with every rebirth.
+Over the next half a dozen years, Sorin wandered the western coast, drifting from town to town and slowly learning the hard truths of his new existence. He discovered the basics of his powers through trial and error—dying and reincarnating multiple times before understanding the risks of his immortality. 
 
   
 
@@ -112,7 +111,7 @@ Early in his journey, Sorin, still calling himself Sorin but wearing the face of
 
   
 
-The betrayal came when Eryndor led Sorin into a trap, selling him out to a group of mercenaries hunting for rare magical anomalies. Caught off guard, Sorin was cornered and killed while attempting to escape, only to awaken days later in a nearby forest. Beside him lay a serpent, his spirit animal now reborn in a new form, a silent reminder of the lessons his death had taught him. 
+The betrayal came when Eryndor led Sorin into a trap, selling him out to a group of mercenaries hunting for rare magical anomalies. Caught off guard, Sorin was cornered and killed while attempting to escape, only to awaken days later in a nearby forest. Beside him lay a serpent, his spirit animal now reborn in a new form, a silent reminder of the lessons his death had taught him. Sorin vowed not to be so trustworthy and foolish again. Never again would he use his real name again, always changing it with each new face. 
 
   
 
@@ -120,23 +119,64 @@ Alone on the road between towns one night, Sorin sat by a dying campfire, his sp
 
   
 
-Define above location
+A few faces and names came and went as Sorin continued his slow, aimless journey up the western coast, eventually arriving at the northernmost point: Morazhar Bay, known as “Dark Echo” in Dwarvish, and the nearby Kazad’varkun, or Bayrock Isle to non-dwarves. The isle was home to a quarry of rare veinstar marble, an abandoned prison from a long-defunct dwarven regime, and Durak-Tor, a bustling port city with a blend of dwarves and travelers from all over.
 
   
 
-Tattoo story with two npcs
+Sorin, now going by the dwarven alias Odric Zargrithaz, settled on the isle for over a year, unsure of his next steps. He split his time between working for a fishing crew led by the hearty and no-nonsense Guldrim Thalzund and helping out at a merchant shop run by Guldrim’s shrewd partner, Kelvar Khrundak. Sorin quickly became a valued employee and, more importantly, a trusted drinking companion. For the first time in years, he felt a genuine bond with others—a connection he knew he could never reclaim if his secret was revealed. Determined to preserve these friendships even beyond death, he devised a plan to create a false sense of trust among future faces.
+
+  
+
+Inspired by the tattoos of the sailors passing through the port, each with their own stories and meanings, Sorin invented a “secret group.” Purchasing a tattoo kit from a departing sailor, he spent weeks learning the craft. Eventually, he tattooed a simple, runic-looking swirl onto his inner arm. He showed it to Guldrim and Kelvar, spinning a convincing tale that anyone bearing the same tattoo was a trusted ally. The dwarves, intrigued but convinced by his earnestness, agreed that if someone ever showed the mark, they’d treat them as a friend of Odric’s.
+
+  
+
+Fate, however, had other plans. A sudden and violent storm wrecked Sorin’s fishing boat on sharp rocks, cutting short the life of Odric Zargrithaz. When Sorin awoke on the island once more, now in the body of a Halfling, he retrieved a hidden pack he’d stashed away in case of such an event. Inside were poorly fitting clothes, basic supplies, and his tattoo kit. He inked the familiar runic swirl onto his new arm before disappearing into the wilderness for weeks, waiting for the right time to reintroduce himself.
+
+  
+
+When the time came, Sorin, now calling himself Bertram Greywater, entered Durak-Tor, carefully timing his visit to the Salted Anvil, Guldrim and Kelvar’s favorite tavern. The dwarves, mourning the loss of Odric, were taken in by Bertram’s lies that he’d traveled to the island to meet his old friend. They quickly warmed to him, and when he revealed the tattoo, their bond with “Odric’s friend” was cemented. Despite this, Sorin felt the growing weight of his deception—though they laughed and drank as they always had, he couldn’t shake the sense of distance his new face and form created.
+
+  
+
+When the dwarves mentioned their need to travel to the wine havens, Sorin saw his chance to leave Durak-Tor behind and avoid the pain of maintaining the charade too long. Requesting to join their journey, the trio set off for the Wine Isles, leaving Bayrock Isle—and the life of Odric Zargrithaz—behind.
 
 # Wine isles backstory
 
-Arrive, faction tie in, 2 npcs
+The voyage to the Wine Isles was calm and uneventful, giving Sorin time to reflect as he sailed alongside Guldrim and Kelvar aboard the trade vessel. The pair, ever resourceful, bartered goods with the crew and shared stories of their trading adventures, while Sorin, as Bertram, tried to maintain the illusion of cheerful camaraderie. It was bittersweet for him—he had grown fond of the two dwarves despite the constant reminder that they didn’t truly know him. Still, the weight of his lies made it easier to part ways when they finally docked at Rustfeet, the heart of (thing Rustfeet does).
+
+
+...they finally docked at Rustfeet, the heart of Winemaking and metalwork within Kazano Depths. 
+
 
   
 
-Link to other players
+Sorin helped Guldrim and Kelvar unload their goods, the dwarves eagerly trading for wine, spices, and luxuries. After wrapping up business, they shared a final round of drinks at (Tavern name), a (description). When the dwarves announced their departure the next morning, Sorin thanked them sincerely. They handed him a small purse of gold and promised that any friend of Odric Zargrithaz or Bertram Greywater would always be welcome with them.
 
   
 
-Borrow gold or valuable item from npc of tie in faction, with goal of using it for money making scheme/thing. In the attempt die, reincarnated but then captured again by same people but for different reason (they are not aware of connection), lead into campaign. Npc wants stuff back. 
+Couple days in rustfeet, acquire a job from Rustfeet npc.
+
+  
+
+Job needs money to get going, ship, crew, ect all need paying. (hire a full crew with a captain). So gets loan/investment from Tebrin Wickroot, npc who's a gnome and probably not a great person to get money from but if the banks won't he will. More details about tebrin.
+
+  
+
+Job goes wrong, investment/thing/pay is lost. Sorin is imprisoned/killed/both. Tebrin is annoyed, wants his money/item/pay back.
+
+
+Sorin/Bertram gets a job from Khazmok Stouteye to deliver a large shipment of Rustfeet vintage to Andaceres.
+
+Partway through the journey the ship is stopped for an inspection by a Gilded Scales Company vessel, the Sternhammer. While all of the papers were being thoroughly checked, unusual dog-like creatures began bursting from some of the crates you were transporting and attacking the Gilded Scales, as well as your own men. A lot of men are lost in the chaos, but you survive. You are hauled onto the Sternhammer in chains and brought to Alegria Keep, where you have been kept in a cell for two days. They seem to believe you were in some way responsible for the dog-creatures attack.
+  
+
+Lead into campaign. 
+
+  
+  
+  
+  
 
 # Npcs mentioned
 
@@ -152,7 +192,11 @@ Sorin Thornvale, time since birth - 20-26 years?
 |Caelthar|Dwarf, Hill|Unknown (looked to be old at death likely 1000s)|Mentor/Trauma|Home|
 |Eryndor (surname unknown)|Wood Elf|Adult|Betrayed him|Port town|
 
-  
+Guldrim Thalzund
+
+Kelvar Khrundak
+
+Tebrin Wickroot
 
 # Timeline - All faces
 
@@ -160,13 +204,13 @@ Sorin Thornvale, time since birth - 20-26 years?
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-|Event|Year|Age|Name + Race|Race|Additional|
+|Event|Year|Age (time since birth)|Name|Race|Spirit Animal Form|
 |Born||0|Sorin Thornvale|Half-Elf||
 |Met Caelthar||14|Sorin Thornvale|Half-Elf||
 |First rebirth & Leaving||16|Sorin Thornvale|Elf, Wood||
 |Eryndor Betrayal||18|Sorin|Half-Orc||
-|||||||
-|||||||
+|Time in Morazhar Bay|||Odric Zargrithaz|Dwarf, Durgar||
+|Leaving Morazhar and in Rustfeet|||Bertram Greywater|Halfling, Stout||
 
   
   

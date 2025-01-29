@@ -103,7 +103,17 @@ Cowering beneath the bed is Dain Gustav, the master-servant that serves [[Archon
 The man is an ***acolyte*** and has the *sanctuary* spell cast upon himself. There are 17gp, 30sp, and 52cp on the plinth.
 
 ***0C*** - Guardhouse
+*Tables, chairs, and bookshelves line the walls of this room. You recognise this room as the one you were led through after coming up from out of the dungeon. There is a wooden door to the west, and another door on the northern wall to the east which you know leads to the keep's lower levels. A bedraggled looking dwarven man in the uniform of a Gilded Scales deckhand is handcuffed to a railing, straining to get free.*
 
+There are two daggers on one of the tables, along with several plates and glasses from meals left in a hurry, and a set of cards halfway through a game.
+
+The dwarf is named Krommiir Battlebreath, and he is a terrible pickpocket. He was a deckhand and Gilded Scales guard aboard the Heron's Wing. He doesn't know Captain Satori personally. 
+
+Krommiir's knowledge
+* He doesn't know much about [[Captain Satori]], other than he seems to know [[Archon Coliana]] personally.
+* He boarded the Heron's Wing at Kezarnog, it's last stop before Alegria Keep.
+* He was caught rummaging through other guard's belongings, and brought up here to be questioned.
+* There should be some theives' tools in his belongings, which are in a chest in the bunks downstairs. Third bunk along.
 
 ***0D*** - Armoury
 
@@ -111,6 +121,8 @@ The man is an ***acolyte*** and has the *sanctuary* spell cast upon himself. The
 
 
 ***0E*** - Entrance Hall
+
+*Large framed portraits of important looking figures rest on opposite walls as if in a face off. The left portrait, a man with a stern face, chiselled jaw,and short-cut brown hair with just a tinge of orange to it. He wears the uniform of the Gilded Scales, and wears numerous medals. The placard names him Admiral Valentine. The right-hand portrait depicts an older man, black hair peppered with grey, and a short chinstrap beard. His blue and red robes match the uniforms of the Gilded Scales, but the gold trim of his clothes and the gilded circlet he wears mark him of further importance. The placard names him the Archwizard Fandrel of Maltha.*
 
 
 ***0F*** - Sitting Room
@@ -124,8 +136,9 @@ The man is an ***acolyte*** and has the *sanctuary* spell cast upon himself. The
 
 ***0I*** - Morgue Chute
 
+*Entering this small, shed-like building, you are greeted to what appears to be a strange, square well with a metal lid. There is a padlock on the lid, but it has been left unlocked.*
 
-
+*Opening the lid, you see a 5-foot wide shaft leading down into the darkness below. A foul stench rises from the darkness.*
 
 
 

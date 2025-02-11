@@ -32,7 +32,7 @@ Ran by the dwarven smith Kheldegan Tolm, this forge and equipment shop is an exc
 
 
 ***Carpenter/Shipwright's.***
-
+Tobrin Durgeddin is the dwarven carpenter of the town, along with his two young sons Wubrin and Debrin. Tobrin and his sons have been afflicted with a bloodbound curse of the Durgeddin, caused by their ancestor within Khundrukar. To remove the curse they must drink deep from the Durgeddin reserve, a wine lost within the depths of Khundrukar. The curse was placed in Durgeddin the Black's dying breath, cursing his cousin who had escaped and left Khundrukar to fall. It was his hopes that this curse would force the Durgeddin clan into retaking their fallen home.
 
 
 ***Shrine to Abadar.*** 

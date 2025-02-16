@@ -9,3 +9,7 @@ The Sternhammer - Ship of [[Commodore Valverde]], patrols the seas around [[Aleg
 The Kraken's Terror - The ship that [[Burdock]] found himself aboard whilst investigating rumours of a curse on the long dead of Secinia's tomb.
 
 The Latchsong - The ship of Captain Belwyn Glenhuvan that Sorin took from Rustfeet before it was attacked. 
+
+The Crow's Song - The ship that Dr. Silaam was aboard before it was captured by the Red Tower Goblins.
+
+The Twilight Dancer - Archon Coliana's Flagship.

@@ -53,3 +53,12 @@ The triton of Alverfjord think they spotted a group of Zakrossi tritons searchin
 Durgeddin was a master smith who forged blades of surpassing quality and power. Centuries ago, his winehaven was sacked by orcs. Durgeddin led the remnants of his clan to the mountains north of the town of Alverfjord and established a small, secret stronghold somewhere in the trackless wilderness.
 
 From his hidden redoubt, he waged a decades-long vendetta against all orc-kind, until his enemies discovered his fortress and attacked it after a long siege. Durgeddin and his followers perished, and much wealth was carried away by the conquering hordes. But it's said that the deepest and best-hidden vaults, armories, and wine cellars escaped the looting, and that some of Durgeddin's extraordinary blades still wait in the darkness for a hand bold enough to claim one.
+
+
+
+
+
+*Return from the Red Towers*
+
+Upon their arrival back to Alverfjord, the party will find that the Sternhammer is docked and numerous triton are being forced aboard. The townsfolk are audibly unhappy with this, but nobody is stepping up to stop them. 
+

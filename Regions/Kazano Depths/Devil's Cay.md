@@ -1,0 +1,3 @@
+You awaken on a a beach, the waves softly lapping in the distance. A short explore of the island finds very little. The place is less than half a mile across, and is desert with the exception of a small copse of palm trees towards the centre. Two small rowboats are beached on the island, with nothing but empty sacks within. This provides you with enough material for makeshift clothes, and evidence of humanoid activity somewhere on the island.
+
+![[Pasted image 20250419123348.png]]

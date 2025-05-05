@@ -10,7 +10,7 @@ Floor 6: The Peak of Hubris, Tavern at the peak, overlooking the cauldron. It is
 
 Floor 5: The Stompery Dwarves in heavy iron boots crunch on the hard iron shells of the iron grapes, the juicy insides are strained from the shell remains to make Rustfeet's famous vintage. The iron shells remains are sent via minecart to Floor 1. 
 
-Floor 4: The Falia Oshmokones memorial temple A multi faith temple with a huge statue, a crying human woman kneeled in prayer, she appears to have suffered a bite wound. Also on this floor a more specific temple to the rustfeet patron deity [INSERT GOD HERE]. Accomodation for the various clergy. 
+Floor 4: The Falia Oshmokones memorial temple A multi faith temple with a huge statue, a crying human woman kneeled in prayer, she appears to have suffered a bite wound. Also on this floor a more specific temple to the rustfeet patron deity Folgrit, the Watchful Mother. Accomodation for the various clergy. 
 
 Floor 3: Military level, drawbridge. Various barracks, training areas and firing ranges, anybody entering rustfeet must travel through the floor, the main thoroughfare features blade traps, arrow slits and kill zones. 
 
@@ -24,7 +24,7 @@ Floor -1: Nobility quarters Freestanding houses built from iron blocks squat in 
 
 Floor -2: Freshwater spring. Pumps carry water from here to level 1 
 
-Floor -3: Under fort and Dunfeon Defenses from underground threats are housed here, the underguard have a rivalry with the army on Floor 3: Driving them both to devise more and more elaborate defenses and traps. The dungeon (prison) is housed here. 
+Floor -3: Under fort and Dungeon Defenses from underground threats are housed here, the underguard have a rivalry with the army on Floor 3: Driving them both to devise more and more elaborate defenses and traps. The dungeon (prison) is housed here. 
 
 Floor -4: Rofei Pasture. An underground fungal pasture, walled off from the rest of the underdark (hastily, from the look of it) houses the livestock of rustfeet. Rofei and cave turkey graze lazily in the pitch blackness. 
 

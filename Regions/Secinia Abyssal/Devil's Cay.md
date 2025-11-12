@@ -1,4 +1,4 @@
-An unusual island to the south-west of Secinia Abyssal, Devil's Cay is locked in a perpetual winter. In the caverns beneath the island, an ice devi by the name of Bavrazi is bound, straining for freedom. 
+An unusual island to the south-west of Secinia Abyssal, Devil's Cay is locked in a perpetual winter. In the caverns beneath the island, an ice devil by the name of Bavrazi is bound, straining for freedom. 
 
 Bavrazi is bound by contract to protect the treasure of Evelina Silver-Teeth, and must try her hardest to slay any who would take it.
 

@@ -1,0 +1,1 @@
+Creeping Gilt is a disease spread by the gilded zombies of Secinia. 

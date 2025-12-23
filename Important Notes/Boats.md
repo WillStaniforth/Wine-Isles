@@ -12,4 +12,4 @@ The Latchsong - The ship of Captain Belwyn Glenhuvan that Sorin took from Rustfe
 
 The Crow's Song - The ship that Dr. Silaam was aboard before it was captured by the Red Tower Goblins.
 
-The Twilight Dancer - Archon Coliana's Flagship.
+The Twilit Lance - Archon Coliana's Flagship.

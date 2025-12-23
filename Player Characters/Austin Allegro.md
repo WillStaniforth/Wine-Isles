@@ -78,9 +78,7 @@ He joined the state evoker’s guild, quickly ascended the command chain and spe
 
 -28 years to -5 years
 
-During an internal guild conflict, he backed the losing side, realising this just before it was too late, and ratted out his co-conspirators. As a  consequence, he was not kicked out of the guild, but
-
-he was kicked out of Jakhammer, to manage an Octopus guild lodge in the city of Halvon. He steadily worked his way into local politics, during this time, he married for political advantage, sadly, his wife died only a year after their vows. (He did not kill her, but she had an extremely fragile constitution, and the stress of her relationship with him took its toll. 
+During an internal guild conflict, he backed the losing side, realising this just before it was too late, and ratted out his co-conspirators.  Galtian Tova was one of these co-conspirators. As a  consequence, he was not kicked out of the guild, but he was kicked out of Jakhammer, to manage an Octopus guild lodge in the city of Halvon. He steadily worked his way into local politics, during this time, he married for political advantage, sadly, his wife died only a year after their vows. (He did not kill her, but she had an extremely fragile constitution, and the stress of her relationship with him took its toll. 
 
 -5 years
 

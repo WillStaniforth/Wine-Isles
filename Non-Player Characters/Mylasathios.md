@@ -11,3 +11,6 @@ In his humanoid form, he takes the appearance of a young sea elven man with pale
 Each time he visits a ship, he has 3 random magic items up for sale, as well as any rumours he's heard/seen in his travels.
 
 [[Orduvanthia the Tender]]
+
+![[Pasted image 20251223130420.png]]
+![[Pasted image 20251223130302.png]]

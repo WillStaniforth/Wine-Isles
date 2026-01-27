@@ -9,3 +9,14 @@ If the party offers the location of the unrecovered wine, she will offer the par
 If the party offers the tapestry, she will offer 4,00gp.
 
 Regardless of what the party trade, she will offer to the party an informal agreement to offer them less than scrupulous jobs in the future.
+
+
+800gp for Two bottles
+
+1000gp worth of upgrades now and another 1000gp worth upon recovery of the rest of the cache
+
+For terrarium 1500gp on delivery, after they've gotten it to multiply another 1500gp +1% of Bloodpyre revenue
+
+
+Smith wants 600gp to reforge battletax to a longsword
+

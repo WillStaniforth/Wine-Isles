@@ -57,5 +57,5 @@ If the party signs up for a bout in the arena, they will face off against anothe
 **Druid** - Ullan Tallfellow (Halfling)
 **Pirate Deck Wizard** - Estella "Toxic" Swales (Human)
 
-
-![[Pasted image 20251223114114.png]]![[Pasted image 20251223114147.png]]![[Pasted image 20251223114203.png]]
+![[Pasted image 20260131175018.png]]![[Pasted image 20260131175030.png]]
+![[Pasted image 20260131175241.png]]![[Pasted image 20260131175222.png]]![[Pasted image 20260131175621.png]]![[Pasted image 20251223114114.png]]![[Pasted image 20251223114147.png]]![[Pasted image 20251223114203.png]]

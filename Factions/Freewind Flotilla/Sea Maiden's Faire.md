@@ -1,0 +1,1 @@
+The Sea Maiden's Faire is the trio of ships owned by Jarlaxle Baenre; the Eyecatcher, the Heartbreaker, and the Hellraiser. The Faire is currently travelling as part of the [[Freewind Flotilla]]. Jarlaxle currently disguises as [[Captain Shalako]].

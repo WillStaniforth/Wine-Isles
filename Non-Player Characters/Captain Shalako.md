@@ -1,0 +1,1 @@
+Captain Shalako is the current alias of Jarlaxle Baenre. He is captain of the Eyecatcher, one of the three ships that make up the [[Sea Maiden's Faire]].

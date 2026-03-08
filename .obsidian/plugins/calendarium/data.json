@@ -1,0 +1,1097 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Arodanian Calendar",
+      "description": "",
+      "id": "ID_f898dacbe908",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 3,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Moonday",
+            "id": "ID_8a1a0bf94bfa"
+          },
+          {
+            "type": "day",
+            "name": "Toilday",
+            "id": "ID_a81aabfb284a"
+          },
+          {
+            "type": "day",
+            "name": "Leanday",
+            "id": "ID_eb0b6ae8fa89"
+          },
+          {
+            "type": "day",
+            "name": "Wealday",
+            "id": "ID_9abb980959b9"
+          },
+          {
+            "type": "day",
+            "name": "Oathday",
+            "id": "ID_094a6b7b4a7a"
+          },
+          {
+            "type": "day",
+            "name": "Etherday",
+            "id": "ID_c92a7a7aea29"
+          },
+          {
+            "type": "day",
+            "name": "Fireday",
+            "id": "ID_b8ab5b698a89"
+          },
+          {
+            "type": "day",
+            "name": "Starday",
+            "id": "ID_d8fa4b1b9919"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_fb4b9afb5aa8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Desnight",
+            "length": 40,
+            "id": "ID_9ae848c918fa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Abadius",
+            "length": 40,
+            "id": "ID_599b5858a949",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Shellight",
+            "length": 40,
+            "id": "ID_c9fb5bab091a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Gozran",
+            "length": 40,
+            "id": "ID_8a78596beabb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sarenith",
+            "length": 40,
+            "id": "ID_c82a8ba9f97b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Erastus",
+            "length": 40,
+            "id": "ID_1beabb2869e9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Torawsh",
+            "length": 40,
+            "id": "ID_2af92b485968",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Pharast",
+            "length": 40,
+            "id": "ID_a8db989a88a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Neth",
+            "length": 40,
+            "id": "ID_d92a0828981b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Jezelda",
+            "cycle": 21,
+            "offset": 9,
+            "faceColor": "#671d25",
+            "shadowColor": "#000",
+            "id": "ID_cadbbadb0a79"
+          },
+          {
+            "name": "Ketephys",
+            "cycle": 82,
+            "offset": 38,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_6b08aa997a58"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_fa5bea0a390b",
+            "name": "Spring",
+            "type": "Periodic",
+            "color": "#50dd1d",
+            "duration": 79,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_18f9288bd82b",
+            "name": "Summer",
+            "type": "Periodic",
+            "color": "#ea1f1f",
+            "duration": 120,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_3abbabbacb59",
+            "name": "Autumn",
+            "type": "Periodic",
+            "color": "#e08a00",
+            "duration": 60,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_bbbb3b6a9a39",
+            "name": "Winter",
+            "type": "Periodic",
+            "color": "#a8b6f7",
+            "duration": 101,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 80,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": false,
+        "weather": {
+          "enabled": false,
+          "seed": -1184916232,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 34,
+        "month": 2,
+        "year": 757
+      },
+      "events": [
+        {
+          "name": "Inheritor's Ascension",
+          "description": "Originally called Herald’s Day, this festival on the 17th of Abadius honours the day Aroden chose Iomedae as his herald, boosting her beyond the power of a fledgling goddess. It was renamed after Aroden’s death.",
+          "date": {
+            "month": 1,
+            "day": 17,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_1b8bb9a9a938",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Armass",
+          "description": "Observed on the 23rd of Abadius, this is traditionally a day to train commoners in the use of simple weapons, choose squires for knights, and ordain new priests, though in recent decades it has begun to include jousts, duels, and proud celebrations. When Aroden was alive it was also a day to discuss past human wars and study the lessons of history with regard to how they shape the modern day.",
+          "date": {
+            "month": 1,
+            "day": 23,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_fb9a1b3acbfa",
+          "note": null,
+          "category": "ID_c8fa7b2a5999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ascension Day (Caiden Cailean)",
+          "description": "The actual date of Cayden’s transformation from mortal to god is irrelevant even to him, but the church celebrates this event on 11th of Shellight with a toast of thanks to him for his gifts. Typically this is a hot alcoholic beverage with a sweet bread pastry of some kind.",
+          "date": {
+            "month": 2,
+            "day": 11,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_f91b1b582818",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Day of the Inheritor",
+          "description": "This somber day of remembrance on 26th of Shellight marks the day when Iomedae formally invited all members of Aroden’s failing church to join her faith. Celebration of this holiday is increasingly rare throughout Karne, and likely to fade away entirely in another human generation.",
+          "date": {
+            "month": 2,
+            "day": 26,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_a8596b7ad879",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Currentseve",
+          "description": "The original meaning of this holiday’s name is lost to time, as it doesn’t refer to any specific event relating to water or wind currents. In modern tradition, it is a daylong fast in anticipation of the first sprouting plants of the year (in planting and gathering communities) or the spawning season (in fishing communities). It represents the fact that feast and famine are natural cycles; by abstaining from food, worshipers redirect spiritual energy to other lives so that they may multiply and provide food when needed.",
+          "date": {
+            "month": 3,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_e83b2b080bba",
+          "note": null,
+          "category": "ID_c8fa7b2a5999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ascension Day (Iomedae)",
+          "description": "This joyous celebration occurs on the 19th of Gozran, the anniversary of the day Iomedae entered the Starstone Cathedral, and is characterized by singing, pledging of friendship, and forgiving old grievances or repentant.",
+          "date": {
+            "month": 3,
+            "day": 19,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_a9baba3bea98",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Burning Blades",
+          "description": "This holiday takes place on the 28th of Sarenith, although technically it is the apex of a summer-long celebration in the Dawnflower’s name. The holiday represents the light of Sarenrae and her power to heal both physical and spiritual injuries and malaise. It is named for the dance of the burning blades, a performance in which the faithful coat ceremonial weapons in slow-burning pitch and dance with them.",
+          "date": {
+            "month": 4,
+            "day": 28,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_c85b090bd97b",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Archerfeast",
+          "description": "This holiday on the 34th of Erastus is a day of feasting, fun, and relaxation. Villages hold archery and stone-throwing contests, ranchers rope and trade calves and lambs, and young people ask permission to wed. Cider is served cold during the day and hot at night. At sundown, an animal is offered to the god, and everyone in the community eats a piece to share in his blessing.",
+          "date": {
+            "month": 5,
+            "day": 34,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_da88c879f9d8",
+          "note": null,
+          "category": "ID_c8fa7b2a5999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Day of Bones",
+          "description": "On the fifth day of Pharast, priests carry the enshrouded corpses of the recent dead through the streets of the city in an honored procession. These corpses are interred at no cost in a church graveyard, tomb, or sepulcher, which is considered a great honor to the departed.",
+          "date": {
+            "month": 7,
+            "day": 5,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_08dbba98e89a",
+          "note": null,
+          "category": "ID_c8fa7b2a5999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Swallowtail Festival",
+          "description": "Legends tell of a portion of Desna’s spirit plummeting from the heavens after a great battle with Lamashtu. A blind orphan nursed Desna’s avatar back to health, and to thank the child, the goddess transformed her into an immortal butterfly. In this form, the child could forever fly around the world, seeing its wonders. In honor of this event, the church raises swallowtail butterflies, releasing them from a netted wagon on the first day of autumn in front of a crowd of the faithful. These “children of Desna” fill the air for the rest of the day’s singing, feasting, and storytelling. Desna’s followers believe it is good luck for a butterfly to rest on them during the festivities. Larger temples sometimes have enclosed gardens where they raise the caterpillars for eventual release on the holiday; smaller temples or those in climates that won’t support butterflies might release dry leaves or corn husk fragments painted to look like butterflies.",
+          "date": {
+            "month": 7,
+            "day": 7,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_1a3a5949e928",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Abjurant Day",
+          "description": "On the 11th of Neth, the faithful work together to shore up mutual defenses and train friends and children in defensive magic. It’s also traditionally a day for testing possible apprentices; some evil casters do so by performing deadly tests upon kidnapped subjects to find promising students and eliminate potential rivals.",
+          "date": {
+            "month": 8,
+            "day": 11,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_ca1bb9ab2a48",
+          "note": null,
+          "category": "ID_eb2a880938e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Evoking Day",
+          "description": "The 22nd of Neth is a day of magical fireworks displays, dueling (both mock and real), and trading spells. Even commoners celebrate helpful magic by dancing with bright streamers and wearing black-and-white flowing robes designed to flare out around the waist when the wearers spin.",
+          "date": {
+            "month": 8,
+            "day": 22,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_4ae9fb08ea1b",
+          "note": null,
+          "category": "ID_eb2a880938e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Transmutatum",
+          "description": "The 33rd of Neth is a day of reflection and self-improvement. Some traditionalists believe it is fortuitous to begin researching spells or crafting difficult magic items on this day.",
+          "date": {
+            "month": 8,
+            "day": 33,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_2a5a8a5a9878",
+          "note": null,
+          "category": "ID_eb2a880938e8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Merrymead",
+          "description": "Started in Galt, this holiday on 36th of Desnight is about sharing the last of the previous year’s mead with the community, and is celebrated through either sharing stories and drinks around a fire or—especially for the less pious—extensive pub crawls.",
+          "date": {
+            "month": 0,
+            "day": 36,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_a91aab0bfbea",
+          "note": null,
+          "category": "ID_c8fa7b2a5999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Feast of Fallen Stars",
+          "description": "This winter festival is held annually in Candlecove, and is the one night in the year that lighthouse light does not shine. This allows the people of the cove to revel in the beautiful meteor showers in the night sky while partaking in a grand feast.",
+          "date": {
+            "month": 5,
+            "day": 14,
+            "year": [
+              284,
+              null
+            ]
+          },
+          "id": "ID_0b08693b5908",
+          "note": null,
+          "category": "ID_eb2868987838",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Settler's Rest",
+          "description": "Celebrated in Nesai, this celebration marks the anniversary of the founding of their city. It honours the dead Pharaohs of the city and the founding clans.",
+          "date": {
+            "month": 8,
+            "day": 14,
+            "year": [
+              555,
+              null
+            ]
+          },
+          "id": "ID_1ab9285a8968",
+          "note": null,
+          "category": "ID_eb2868987838",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Hurricane's Call",
+          "description": "A day of superstition and reclusion. On the anniversary of the crowning of the first Hurricane King, townsfolk and sailors alike don't go out onto the ocean and stay within the protection of their homes. It is said that Besmara blesses pirates with great luck on this day.",
+          "date": {
+            "month": 3,
+            "day": 20,
+            "year": [
+              523,
+              null
+            ]
+          },
+          "id": "ID_39a9d928b828",
+          "note": null,
+          "category": "ID_eb2868987838",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Hayuma's Birthday",
+          "description": "Hayuma, The Stormborn Huntress (Burdock's wife) was born on this day.",
+          "date": {
+            "month": 8,
+            "day": 27,
+            "year": [
+              726,
+              null
+            ]
+          },
+          "id": "ID_18dbdb99f91b",
+          "note": null,
+          "category": "ID_5b9ac94a5b79",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Hayuma's Deathday",
+          "description": "The day that Hayuma (Burdock's wife) was slain.",
+          "date": {
+            "month": 0,
+            "day": 25,
+            "year": [
+              757,
+              null
+            ]
+          },
+          "id": "ID_e9aa8a8b4b49",
+          "note": null,
+          "category": "ID_5b9ac94a5b79",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Burdock's Birthday",
+          "description": "Burdock's birthday",
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              726,
+              null
+            ]
+          },
+          "id": "ID_995b4819ab08",
+          "note": null,
+          "category": "ID_5b9ac94a5b79",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Maxwell's Birthday",
+          "description": "Maxwell's birthday!",
+          "date": {
+            "month": 4,
+            "day": 14,
+            "year": [
+              736,
+              null
+            ]
+          },
+          "id": "ID_28da989aba4a",
+          "note": null,
+          "category": "ID_5b9ac94a5b79",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Burdock's Wedding Anniversary",
+          "description": "The date of Burdock and Hayuma's wedding ceremony.",
+          "date": {
+            "month": 3,
+            "day": 1,
+            "year": [
+              750,
+              null
+            ]
+          },
+          "id": "ID_aae858a8dbe9",
+          "note": null,
+          "category": "ID_5b9ac94a5b79",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Venture's Favour",
+          "description": "A grand celebration of Gozreh held in Andeceres each year. The fastest ships of the isles all arrive to race across the seas to prove their loyalty to Gozreh. At the end of the race, the victor's ship is ceremonially scuttled, but the city builds them a new ship as a prize.\n\nThe event is held in celebration of the legendary ship the Venture that sailed from Andeceres to the free cities of the isles to rally them for an approaching invasion of Sahuagin. It is due to the swiftness of the Venture that the isles were saved form the worst of the Sahuagin's wrath.",
+          "date": {
+            "day": 9,
+            "month": 6,
+            "year": [
+              462,
+              null
+            ]
+          },
+          "id": "ID_59796bc8bab9",
+          "note": null,
+          "category": "ID_eb2868987838",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Hearth's Bounty",
+          "description": "A new tradition of the Freewind Halflings, celebrated on the day they unified under one banner upon the sea. It is a celebration of unification, home, and belonging together in the flotilla, away from what has been home for so long.\n\nIt is celebrated with feasting and dancing. Unlike many halfling traditions, outsiders who have been generous to the Flotilla in their plight are invited and celebrated as guests of honour.",
+          "date": {
+            "day": 15,
+            "month": 4,
+            "year": [
+              752,
+              null
+            ]
+          },
+          "id": "ID_9b09385bbb7a",
+          "note": null,
+          "category": "ID_eb2868987838",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Sorin's Birthday (Ish)",
+          "description": "Vaguely near the date of Sorin's birth.",
+          "date": {
+            "day": 30,
+            "month": 3,
+            "year": [
+              731,
+              null
+            ]
+          },
+          "id": "ID_5beb1a498b2b",
+          "note": null,
+          "category": "ID_5b9ac94a5b79",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Devil's Cay",
+          "description": "Today, the crew of the Kara II entered Devil's Cay and slew Bavrazi, the ice devil. They claimed the treasure of Evelina Silver-Teeth.",
+          "date": {
+            "day": 34,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_3a7b4958a88b",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Start of Wine Isles Campaign",
+          "description": "The party fled Allegria Keep aboard the Albacore.",
+          "date": {
+            "day": 12,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_4a9ad8c94b9a",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Alverfjord",
+          "description": "The party arrive in Alverfjord and meet the mayor.",
+          "date": {
+            "day": 13,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_e859f8a9c958",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Red Towers",
+          "description": "The party arrive at the Red Towers, and kill the goblins there. Three goblins are left alive.",
+          "date": {
+            "day": 14,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_1aab28e8fb2a",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Death of Kalitas",
+          "description": "The party arrive back in Alverfjord and find the Sternhammer waiting. Kalitas is killed in the escape.\n\nThe party find Harlon on a small isle. They also meet with a triton rebel named Zetes who seeks help overthrowing Zakross and it's leader.",
+          "date": {
+            "day": 15,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_fadb1bcb8a29",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Kezarnog",
+          "description": "The party arrive in Kezarnog for the first time. They paint the ship and rename it to the Kara II. They meet Bilcorin at the peak of hubris and agree to set out on an expedition together.",
+          "date": {
+            "day": 17,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_ab7b5808dbb8",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 19,
+            "month": 2,
+            "year": 757
+          }
+        },
+        {
+          "name": "The Lair of Kez Calmthrone",
+          "description": "The party arrive in the jungle and venture forth. They make their ways through the jungle until they find a ruined temple. Descending in, they find and kill a ratfolk Fleshmancer by the name of Kez.",
+          "date": {
+            "day": 21,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_c88a4b1b497a",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 22,
+            "month": 2,
+            "year": 757
+          }
+        },
+        {
+          "name": "Bloodpyre Caldera",
+          "description": "The party descend deeper into the cave and find the bloodpyre caldera. They free Flickering Flame, a tabaxi pirate, and loot the place.\n\nAfter leaving, they take the treasure to the boat, double back to kill Bilcorin, then decide against it and all head back to the boat.",
+          "date": {
+            "day": 23,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_68e93b78eaca",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 26,
+            "month": 2,
+            "year": 757
+          }
+        },
+        {
+          "name": "Meeting the Brewmistress",
+          "description": "After sailing back to Kezarnog, they meet with the Brewmistress Thrombrella Kezrnog to trade. They make a lot of money and a contract - they've agreed to take out the Sternhammer and to help destroy Allegria Keep. In payment for this, they will receive a new ship.",
+          "date": {
+            "day": 27,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_c8ea39ba8aeb",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 30,
+            "month": 2,
+            "year": 757
+          }
+        },
+        {
+          "name": "Death's Head",
+          "description": "The party arrive at Death's Head. After an incident involving Gaultian Tova and a table, the party find themselves thrown into the fighting pit. They fight some dinosaurs, and come out victorious at the cost of Harlon's Life.\n\nThe morning after, they find Beledros and he explains the reincarnation.",
+          "date": {
+            "day": 31,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_798bb85869a8",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 33,
+            "month": 2,
+            "year": 757
+          }
+        },
+        {
+          "name": "Ritual of Stardust",
+          "description": "This celebration takes place on the summer and winter solstices, bracketing the shortest and longest nights of the year (and thus the best day to travel and the longest night to view Desna’s stars). A great feast starts at dusk with several large bonfires throwing sparks into the darkening sky. When dusk turns fully to night, the faithful sing until the fires burn down to glowing embers, then throw handfuls of sand laced with star gems (star rubies, star sapphires, or rose quartz) on the coals or into the air downwind of the festival. Pledges of friendship and journeys follow the stardust ritual, with the winking speckles of sand mirroring the stars in the sky and representing Desna bearing witness to the words. Some cultures include prayers for good harvests or mild winters, depending on the season.",
+          "date": {
+            "day": 29,
+            "month": 4,
+            "year": 757
+          },
+          "id": "ID_d8b87ac999db",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ritual of Stardust",
+          "description": "This celebration takes place on the summer and winter solstices, bracketing the shortest and longest nights of the year (and thus the best day to travel and the longest night to view Desna’s stars). A great feast starts at dusk with several large bonfires throwing sparks into the darkening sky. When dusk turns fully to night, the faithful sing until the fires burn down to glowing embers, then throw handfuls of sand laced with star gems (star rubies, star sapphires, or rose quartz) on the coals or into the air downwind of the festival. Pledges of friendship and journeys follow the stardust ritual, with the winking speckles of sand mirroring the stars in the sky and representing Desna bearing witness to the words. Some cultures include prayers for good harvests or mild winters, depending on the season.",
+          "date": {
+            "day": 39,
+            "month": 8,
+            "year": 757
+          },
+          "id": "ID_0b7959b8ab8a",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Sun Wrought Festival",
+          "description": "The summer solstice celebration honors the longest day of the year. Worshipers dance, give each other small gifts, light fireworks, and sell or trade their finest crafts in a market-like gathering. Fireworks, paper streamers, and simple kites are popular amusements. Many celebrations feature a reenactment of the battle between Sarenrae and Rovagug, with the goddess represented by a young woman and the evil god represented as a large frame-and-cloth costume that can exceed 20 feet in length and require four or more people to operate.",
+          "date": {
+            "day": 29,
+            "month": 4,
+            "year": 757
+          },
+          "id": "ID_ba4ab8086bd8",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Crystalhue",
+          "description": "This day of artistic creation is traditionally a time for courtship and romantic proposals. During the day, people hang crystal prisms and glass baubles in order to spread light and scatter rainbows in the streets. Celebrants exchange small gifts, typically handmade, as tokens of appreciation or as peace offerings to those they feel they wronged during the year. Worshipers often dye colored streaks in their hair or wear colorful patchwork coats called melaros to which they add new patches every year. In the evenings, celebrants place lanterns on porches and in windows to line the streets with communal light. Town squares or other community gathering spaces host feasts around bonfires, and these gatherings are a popular time to perform marriage ceremonies, especially for worshipers without the means to throw such elaborate celebrations for themselves. The sole dark note of Crystalhue is the zonzon doll. In some Shelynite congregations, a child chosen to be the “sibling” passes this strange little doll, made from scraps of leather and cloth and sewn with red thread, among neighbors. The townsfolk give it symbolic gifts and tell the doll happy memories or whisper apologies for those they’ve wronged during the year. The “sibling” child then casts it into the wilderness or sets it afloat to drift down a river, in the hope that it will find its way to the Midnight Lord and relate his sister’s kindness, mercy, and goodwill in the face of the dark place he now resides.",
+          "date": {
+            "day": 39,
+            "month": 8,
+            "year": 757
+          },
+          "id": "ID_2a389baa99f9",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Candlemark",
+          "description": "This is a personal holiday for members of the Everlight's faith, a remembrance of when and why they joined the church. By tradition it is held at the winter solstice, representing that even during the sun’s weakest day, Sarenrae’s power to heal and redeem is still with her faithful. In most human cultures, children may declare themselves members of the church on the first Candlemark after their fifteenth birthday. How they celebrate is a matter of personal taste; some hold a feast, some go on a pilgrimage, and some spend the day in prayer. This holiday is particularly meaningful to redeemed evil folk who have found forgiveness in the light of Sarenrae.",
+          "date": {
+            "day": 39,
+            "month": 8,
+            "year": 757
+          },
+          "id": "ID_7baa3b5af898",
+          "note": null,
+          "category": "ID_f8e8a9f9a999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Firstbloom",
+          "description": "Honored primarily in farming communities, this holiday marks the start of the planting season, and is typically celebrated with dances and other fertility rites. Traditionalists of the faith consider Firstbloom the start of the year, even though the common calendar marks it 2 months earlier in Desnight.",
+          "date": {
+            "day": 35,
+            "month": 2,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_189a8839db0a",
+          "note": null,
+          "category": "ID_c8fa7b2a5999",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_f8e8a9f9a999",
+          "color": "#f9ed62",
+          "name": "Religious"
+        },
+        {
+          "id": "ID_eb2a880938e8",
+          "color": "#56e1b3",
+          "name": "Magic"
+        },
+        {
+          "id": "ID_c8fa7b2a5999",
+          "color": "#de66ff",
+          "name": "Other"
+        },
+        {
+          "id": "ID_eb2868987838",
+          "color": "#1e4ba4",
+          "name": "Wine Isles Holidays"
+        },
+        {
+          "id": "ID_5b9ac94a5b79",
+          "color": "#c62424",
+          "name": "Personal Days"
+        },
+        {
+          "id": "ID_7ac819fb287b",
+          "color": "#839cce",
+          "name": "Campaign Events"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_f898dacbe908",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "Important Notes",
+      "DEFAULT"
+    ]
+  ]
+}

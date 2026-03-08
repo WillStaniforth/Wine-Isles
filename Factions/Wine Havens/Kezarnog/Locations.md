@@ -10,13 +10,6 @@ Dr Erben Bilcorin awaits his friend Athena Drake here, to set out on a new adven
 Khazmok Stouteye is the dwarven trader that has been supplying shipments with Kez's Dogs. He is unaware of exactly what is happening, he is simply being paid to collect shipments from Kez, and spread them in throughout other shipments. He is being paid the bulk of the money Kez is making, Kez simply wants more people to experiment on. 
 
 
-**.** 
-
-
-
-
-
-
 **Bastion Arms**
 An arms shop in Kezarnog village, it is the place to pick up fire arms and modifications on the island.
 

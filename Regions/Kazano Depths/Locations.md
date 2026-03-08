@@ -1,5 +1,5 @@
-Free City of Unarith
+[[Free City of Unarith]]
 Cebriopolis (Triton thermal vents)
-Kezarnog/Rustfeet
-Alverfjord
-Alegria Keep
+[[Kezarnog]]/Rustfeet
+[[Alverfjord]]
+[[Alegria Keep]]

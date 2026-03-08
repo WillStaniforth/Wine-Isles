@@ -2,7 +2,7 @@ Brewmistress Thombrella Kezarnog is a stout and hardy woman, with thick ginger b
 
 Rewards:
 
-If the party offer her the terrarium, she will offer the party full use of Kezarnog's shipyard now and going forwards, as well as 1,000gp worth of upgrades to their vessel. 
+If the party offer her the terrarium, she will offer the party full use of [[Kezarnog]]'s shipyard now and going forwards, as well as 1,000gp worth of upgrades to their vessel. 
 
 If the party offers the location of the unrecovered wine, she will offer the party an extra 1,000gp worth of upgrades to their vessel.
 

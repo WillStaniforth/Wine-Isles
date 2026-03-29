@@ -27,10 +27,10 @@ Ring of Evasion - 4000gp
 
 Uncommon
 Gloves of Thievery - 300gp
-Sorcery Marble - 400gp
 First Mate's Scabbard - 200gp
 Battery Shield - 400gp
-Wand of Flares - 300gp
+Brooch of Shielding - 600gp
+Sending Stones - 200gp
 
 Common
 Cloth of Instant Tables - 70gp

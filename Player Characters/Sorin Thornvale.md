@@ -111,7 +111,7 @@ Early in his journey, Sorin, still calling himself Sorin but wearing the face of
 
   
 
-The betrayal came when Eryndor led Sorin into a trap, selling him out to a group of mercenaries hunting for rare magical anomalies. Caught off guard, Sorin was cornered and killed while attempting to escape, only to awaken days later in a nearby forest. Beside him lay a serpent, his spirit animal now reborn in a new form, a silent reminder of the lessons his death had taught him. Sorin vowed not to be so trustworthy and foolish again. Never again would he use his real name again, always changing it with each new face. 
+The betrayal came when Eryndor led Sorin into a trap, selling him out to a group of mercenaries - the [[Order of Blackbirds]] - hunting for rare magical anomalies. Caught off guard, Sorin was cornered and killed while attempting to escape, only to awaken days later in a nearby forest. Beside him lay a serpent, his spirit animal now reborn in a new form, a silent reminder of the lessons his death had taught him. Sorin vowed not to be so trustworthy and foolish again. Never again would he use his real name again, always changing it with each new face. 
 
   
 

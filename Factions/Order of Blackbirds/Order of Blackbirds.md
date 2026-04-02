@@ -1,0 +1,3 @@
+The Order of Blackbirds are a sect of Witch-Knight mercenaries that augment themselves with dark magical powers. They scour the lands searching for rare magic. While once a secret order as part of the Malthan Empire, their methods were deemed too unsavoury after a public incident in 747 left a large portion of important Malthan nobility dead or maimed. By order of Archwizard Fandrel, each member of the Order of Blackbirds was executed.
+
+Secretly, a disgraced Malthan noble by the name of - - that had a hand in administration of the executions made a swap for petty criminals. He now guides the Blackbirds as "Grand Corvus", using them for his own personal means to enrich himself and to eventually claim the Malthan Empire for himself.

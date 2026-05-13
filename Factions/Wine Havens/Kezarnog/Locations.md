@@ -24,3 +24,6 @@ It is run by a burly dwarf with a thick blond beard, and a combover by the name 
 | Sterrion Four-Shooter (Loading) | 350gp |
 | Nihlus Skingrazer (Sight)       | 500gp |
 | Vinduhn Focusing Lens (Sight)   | 500gp |
+**Glittering Cache**
+
+Magic Item shop.

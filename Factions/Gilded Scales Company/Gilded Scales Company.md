@@ -3,5 +3,5 @@
 [[Commodore Valverde]]
 [[Archon Coliana]]
 [[Archon Ramos]]
-[[Alegria Keep]]
+[[Alegria Keep (Campaign Start)]]
 [[Storm's Eye Spire]]

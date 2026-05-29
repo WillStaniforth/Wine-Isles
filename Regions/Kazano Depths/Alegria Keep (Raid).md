@@ -24,8 +24,6 @@ There is a ***Gilded Scales Guard*** in this room, and will attack any who enter
 
 Research notes:
 
-**Soul-Touched Vestiges**
-
 ***23rd Neth, 756***
 In my studies, I have recently come across a handful of unusual magical items. To my divinations, they register as powerful magic items with a strange air of necromancy about them. However, to many of the other arcanists that I have shown such vestiges to they see no such magic. To them, they appear as simple mundane items without any interesting properties. The two I have encountered so far have both been found within the Wine Isles. I intend to seek residence there to further my studies.
 
@@ -37,7 +35,7 @@ Regardless, attuning to the cloak granted me a strange vision, from the perspect
 I have sent word to the captains of the fleet to keep a lookout for this vessel, and to send any prisoners straight to Saltiron.
 
 ***36th Abadius, 757***
-With the confirmation that the magic items are linked to particular individuals, seemingly all within the Wine Isles, I have taken to referring to these items as "Soul-Touched Vestiges." I am yet to discover a clue as to why they only seem to appear within this geographic region, and nowhere else. The most recent of these created in my possession is the halfling's cloak, from the vision seemingly it was created within the last 10 years. The oldest I have is the rapier, and from the histories of the drow it was liberated from, it has existed for over 900 years.
+With the confirmation that the magic items are linked to particular individuals, I have taken to referring to these items as "Soul-Touched Vestiges." The most recent of these created in my possession is the halfling's cloak, from the vision seemingly it was created within the last 10 years. The oldest I have is the rapier, and from the histories of the drow it was liberated from, it has existed for over 900 years.
 
 ***13th Shellight, 757***
 I had an epiphany yesterday after a group of pirates escaped with one of the message vessels. All three of the Soul-Touched Vestiges in my possession granted visions of rogues or scoundrels. I wonder if there is a connection between the deaths of law-breakers, and the creation of such items. I plan to expand the jails below the keep and experiment with the idea.

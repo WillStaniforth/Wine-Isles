@@ -28,11 +28,11 @@ Letter 2:
 
 Commodore,
 
-The spate of triton incursions onto the coastal settlements of Kazano are increasing further. Across the different attacks, the same patterns are repeating. Primarily, the tritons will arrive in the dead of night and take hostages from the night workers, guards, and drunkards still about at that hour. They will demand treasure for the release of the hostages. In towns where treasure has been refused, they don't haven't pushed further but simply taken their hostages back below the waves with them. Where the demands have been met they have taken the treasure and released most hostages, but still kept a handful.
+The spate of triton incursions onto the coastal settlements of Kazano are increasing further. Across the different attacks, the same patterns are repeating. Primarily, the tritons will arrive in the dead of night and take hostages from the night workers, guards, and drunkards still about at that hour. They will demand treasure for the release of the hostages. In towns where treasure has been refused, they haven't pushed further but simply taken their hostages back below the waves with them. Where the demands have been met they have taken the treasure and released most hostages, but still kept a handful.
 
 We had assumed that they had drowned as soon as they were taken under but on the 39th Shellight, the mayor of Bergara received a sending from a cleric of Abadar visiting from Unarith. In the sending, he claimed that they were being kept alive for some sort of feast or ritual. The mayor has not received any sendings since.
 
 Furthermore, we have just received shipment of the diving bell from Andaceres, and it is ready to be moved to the Sternhammer upon your return to Alegria Keep.
 
 Yours sincerely,
-Captain Braga
+Captain Santos

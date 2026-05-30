@@ -41,7 +41,7 @@ With the confirmation that the magic items are linked to particular individuals,
 I had an epiphany yesterday after a group of pirates escaped with one of the message vessels. All three of the Soul-Touched Vestiges in my possession granted visions of rogues or scoundrels. I wonder if there is a connection between the deaths of law-breakers, and the creation of such items. I plan to expand the jails below the keep and experiment with the idea.
 
 ***4th Gozran, 757***
-I have received word that Commadore Valverde has been killed, and the Sternhammer stolen by pirates. Alegria Keep is no longer a safe location for the Soul-Touched Vestiges. I have teleported the items to Storm's Eye Citadel where they can be kept safe. I shall remain here and continue my experimentation.
+I have received word that Commadore Valverde has been killed, and the Sternhammer stolen by pirates. Alegria Keep is no longer a safe location for the Soul-Touched Vestiges. I have arranged for the Soul-Touched Vestiges to be escorted to Storm's Eye Citadel for safekeeping. According to the report, the pirates that have stolen the Sternhammer were the same that escaped execution on the 12th of Shellight. I intend to remain in Kazano in the hopes of assisting in their capture. I think they will be excellent test subjects for my current theory.
 
 
 ***1D*** - Crew Bunks

@@ -10,3 +10,14 @@ If the party are able to do this, they will be rewarded with 1,000gp for each of
 
 
 ***Lost Haven.*** Word on the grapevine is that an entrance to the ruins of Nurgran have been found on the southernmost isle of Bastet's Claws. The old Wine Haven must still be absolutely loaded with treasure since most of it sunk into the sea.
+
+
+**Raid on Allegria Keep**
+
+When the party return on the 5th Gozran to discuss, the Brewmistress will have the following pieces of equipment for them:
+
+* Dust of Disappearance
+* Oil of Slipperiness
+* Potion of Diminution
+* Potion of Climbing x2
+* Rudimentary map of the sewers

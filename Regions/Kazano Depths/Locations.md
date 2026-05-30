@@ -2,7 +2,7 @@
 Cebriopolis (Triton thermal vents)
 [[Kezarnog]]/Rustfeet
 [[Alverfjord]]
-[[Alegria Keep]]
+[[Alegria Keep (Campaign Start)]]
 [[Death's Head]]
 [[Red Towers]]
 [[Zakross Isle]]

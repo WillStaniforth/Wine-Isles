@@ -221,7 +221,7 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 4,
+        "day": 5,
         "month": 3,
         "year": 757
       },
@@ -1035,6 +1035,142 @@
             "year": 757
           },
           "id": "ID_9b79fa198b48",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Return to Death's Head",
+          "description": "Austin finds that the Belly of the Beast gets their alcohol from Candlecove, but has recently been stopped by Ambriel's Watch. Hired 2 crew.",
+          "date": {
+            "day": 37,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_98285a3a4b3b",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Glowing Path",
+          "description": "Glowing bioluminescent plankton lures the Kara 2 into an ambush by two triton cogs. The triton escape by diving beneath the sea.",
+          "date": {
+            "day": 38,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_58a848b96b3b",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Return to Kezarnog",
+          "description": "Sell Devil's Cay loot to the Glittering Cache. Buy Gloves of Swimming and Climbing, Lightning Caltrops, Mercenary's Pauldron + 10 healing potions.",
+          "date": {
+            "day": 39,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_39092b3a4b6b",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Kezarnog",
+          "description": "Falco Featherbottom joins the crew. He lets Maxwell know that the Women's Circle is looking for him.",
+          "date": {
+            "day": 40,
+            "month": 2,
+            "year": 757
+          },
+          "id": "ID_09b85b48bab8",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ghost Wife Visit",
+          "description": "Burdock recieves a vision into the Sea of Nightmare and talks to his late wife. She tells him that the Vespertine is tracking them somehow and asks him to kill the dragonborn.",
+          "date": {
+            "day": 1,
+            "month": 3,
+            "year": 757
+          },
+          "id": "ID_aaca7ae8294a",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "VS Sternhammer",
+          "description": "The party sneak up on the Sternhammer in a cove north of Alegria Keep. After forcing a Bombe Galiote into surrender, they board and capture the Sternhammer. After killing Commodore Valverde, they force the surviving crew onto a seastack.\n\nWithin the Sternhammer, they find an amulet worth 800gp and a Sending Stone. The stone is linked to the Storm's Eye Spire and allows them to call for an airship to pick them up.",
+          "date": {
+            "day": 2,
+            "month": 3,
+            "year": 757
+          },
+          "id": "ID_2aaa9be879db",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hiding Sternhammer",
+          "description": "They hide the Sternhammer and 5 mooks at the ruined fort to the north of Kazano Isle, then sail the Kara 2 to Kezarnog.",
+          "date": {
+            "day": 3,
+            "month": 3,
+            "year": 757
+          },
+          "id": "ID_e9eb7bf9980b",
+          "note": null,
+          "category": "ID_7ac819fb287b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Scheming",
+          "description": "They arrive in Kezarnog. They go to the Glittering Cache and find that it has been attacked. The shopkeep's son has been killed, the rest of the family are recovering in the temple of Abadar. \n\nThey meet with the Brewmistress to discuss the plan. They plan to sneak into Allegria Keep via the town of Allegria on a merchant vessel. They are to reconvene in the morning to discuss further after some equipment has been found for them.",
+          "date": {
+            "day": 4,
+            "month": 3,
+            "year": 757
+          },
+          "id": "ID_08896b6b5a19",
           "note": null,
           "category": "ID_7ac819fb287b",
           "sort": {

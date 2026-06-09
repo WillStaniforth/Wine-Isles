@@ -2,10 +2,10 @@ A gold amulet worth 800gp
 A Sending Stone connected to Storm's Eye Spire
 
 A map marked with the following locations
-- Storm's Eye Spire
-- Bergara
-- Saltiron Prison
-- Fort Triseze (Lost Secinia)
+- Storm's Eye Spire (Syrano Shallows)
+- Bergara (Kazano Depths)
+- Saltiron Prison (Secinia Abyssal)
+- Fort Triseze (Secinia Abyssal)
 
 Letter 1:
 

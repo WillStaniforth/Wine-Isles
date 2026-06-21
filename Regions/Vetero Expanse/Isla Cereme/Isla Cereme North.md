@@ -1,7 +1,7 @@
 
 
 ***ZONE A***
-*Mostly grassland with some beackes close to the coast.*
+*Mostly grassland with some beaches close to the coast.*
 *Music:* 
 *Boss:* Pair of Royal Griffons
 
@@ -15,7 +15,7 @@
 
 ***ZONE D***
 *Music:* 
-*Boss:* 
+*Boss:* Apex Chimera
 
 ***ZONE E***
 *Music:* 
@@ -43,7 +43,7 @@
 
 ***ZONE K***
 *Music:* 
-*Boss:* 
+*Boss:* Catoblepas
 
 ***ZONE L***
 *Music:* 

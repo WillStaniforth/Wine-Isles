@@ -2,6 +2,8 @@ Port Selos is a wide stretching city in the bay of Selos. Port Selos is under th
 
 There is a single exit to the south-west of the city, leading into the wilderness of Isla Cereme. Otherwise, the city is walled, wrapping from the mountains on the west, south along the plains, all the way to the docks at the east. The wall is an impressive barrier of massive, fitted stone. 
 
+Music: Oasis in the Sparkling Sand
+
 [Merchant Princes](https://2014.5e.tools/adventure.html#toa,1,merchant%20princes,0)
 
 # Locations

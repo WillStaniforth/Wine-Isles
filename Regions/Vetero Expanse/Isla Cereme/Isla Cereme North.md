@@ -1,19 +1,24 @@
 
+The vast wilderness reserve owned by Lord Vossk to house his tainted wildlife. To gain entrance to Lord Vossk's manor, you need two parts of a 
+
 
 ***ZONE A***
-*Mostly grassland with some beaches close to the coast.*
+*Mostly grassland with some beaches close to the coast. Lots of trees, but spread out like a savannah. Large herbivores roam the lands, diplodocus, triceratops, stegosaurus etc. *
 *Music:* 
 *Boss:* Pair of Royal Griffons
 
 ***ZONE B***
+*Northern coastline, mostly flat sandy beaches that get rockier the further inland they reach. Lots of wading and burrowing creatures.*
 *Music:* 
 *Boss:* Purple Worm
 
 ***ZONE C***
+*A marshy and boggy jungle. It has high canopies, and very little solid ground underfoot. Lots of small foragers and hunters make their home here eg velociraptors.*
 *Music:* 
 *Boss:* Green Dragon Rake + Grandmother Green Hag
 
 ***ZONE D***
+*Rugged and forested hills. The largest stretch of unbroken land on the island. Areas are scorched by fire and raked with claw marks. Signs of a dragon.*
 *Music:* 
 *Boss:* Apex Chimera
 
@@ -27,7 +32,7 @@
 
 ***ZONE G***
 *Music:* 
-*Boss:* Brown Rkto
+*Boss:* Crystalline Basilisk + Bulettes
 
 ***ZONE H***
 *Music:* 
@@ -35,7 +40,7 @@
 
 ***ZONE I***
 *Music:* 
-*Boss:* 
+*Boss:* Brown Rkto
 
 ***ZONE J***
 *Music:* 
@@ -50,7 +55,7 @@
 *Boss:* 
 
 ***ZONE M***
-*Music:* 
+*Music:* The Silverspring Mine
 *Boss:* 
 
 ***ZONE N**

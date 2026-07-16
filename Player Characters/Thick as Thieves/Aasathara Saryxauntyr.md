@@ -1,0 +1,1 @@
+Aasathara has arrived in [[Port Selos]] as a tourist. Taking a well-earned break from her years as mayor, she has come to relax and safari at the legendary Isla Cereme, the personal island of Lord Vossk and host to his collection of monstrous fauna.

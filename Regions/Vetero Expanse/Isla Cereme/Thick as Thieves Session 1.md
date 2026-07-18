@@ -9,6 +9,13 @@ Beyond all that, Port Selos is an explosion of color. Buildings are painted in b
 
 Shortly thereafter, you find yourself in a relatively humble room atop Kaya's House of Repose in the city's Market Ward. Just South of the Red Bazaar, the inn is a high-end establishment with pricey food and drinks...but so are most places in the city. Rather than the rowdy inns of the mainland, this seems more of a spar than a bar, with a separate building for a bathhouse connected with a topiary garden. Looking out from your balcony you can see the great walls of the city, towering nearly 50 feet high, encircling the city from the mountains to the north all the way to the southern end of the docks. Colourful awnings top the walls and towers to shield the guards from the oppressive sun. Painted across the wall is a grand tapestry depicting the jungle beyond, and all manner of vicious looking feathered reptiles, colourful dragons, and other terrifying monstrosities. 
 
+After relaxing for...you lost track of exactly how long, you hear the sounds of the great reptiles thundering footsteps close by to the hotel. A bellowing roar cracks the air as you bolt upright, alert. Moments later, you look down and see three figures flung through a hedge. You recognise your friends Tide and Lykos, with an older half-elven man as they hit the floor. Moments later, the giant lizard crashes through what was left of the hedge wall.
+
+*Tide, Lykos, and Ampere take 5d8 bludgeoning damage as they fall though the hedge. Aasathara doesn't have her armour or weapons equiped, but has her holy symbol.*
+
+
+
+
 
 
 

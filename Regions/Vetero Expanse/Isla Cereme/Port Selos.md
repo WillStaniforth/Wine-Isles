@@ -114,3 +114,6 @@ Port Selos is a very clean city thanks to the cleansing rain, and its residents 
 Along with cleanliness, Selosians love colourful clothing. Textile weaving is not one of Cereme's native industries, because the jungle isn't suited for growing cotton or raising sheep. However, the jungle and the sea provide everything necessary to concoct vibrant dyes in a rainbow of colors. Merchants import light, plain fabrics, which are dyed in vibrant colors and patterns at the dye works before being sold locally or exported back to the regions where the cloth originated. Local tailors craft the fabric into the long shirts, knee-length pants, sarongs, and kilts favored in Port Nyanzaru.
 
 The cliff below the dye works and the sea around it are perpetually stained bright orange, blue, red, green, and yellow, depending on what colors are being dumped from the vats that day. People employed at the dye works are easily recognized on the street because their hands and feet are likewise brightly stained.
+
+##### 21. Dinosaur Pens
+Most of the beasts of burden in the city were trained out here, and they're penned up at night. Ankylosauruses and triceratopses are the most common in that role. Dinosaurs trained for street racing are also stabled here. Most Chultan handlers have a +5 bonus to Animal Handling skill checks, and they work with the same animals day after day

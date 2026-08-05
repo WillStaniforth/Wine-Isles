@@ -14,6 +14,9 @@ The vast wilderness reserve owned by Lord Vossk to house his tainted wildlife. T
 
 ***ZONE C***
 *A marshy and boggy jungle. It has high canopies, and very little solid ground underfoot. Lots of small foragers and hunters make their home here eg velociraptors.*
+
+Towards the center of the marsh, an illusion has been cast making it appear as peaceful wetland. 
+
 *Music:* 
 *Boss:* Green Dragon Rake + Grandmother Green Hag
 
